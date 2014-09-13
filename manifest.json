@@ -7,12 +7,6 @@
     "background": {
         "scripts": ["background.js"]
     },
-    "content_scripts": [
-        {
-            "matches": ["http://*/*"],
-            "js": ["page.js"]
-        }
-    ],
     "icons": {
         "16": "img/icon.png",
         "48": "img/icon.png",
