@@ -14,7 +14,7 @@
         "128": "img/icon-128.png"
     },
     "manifest_version": 2,
-    "description": "Bored with wasting your time of too long articles with too little information? Summarly will help you to extract the most important part from the text. With one click, Summarly makes blog posts and articles compact, clean and easy to read. Summarly eliminates all distractions from your online reading experience.",
+    "description": "Summarly makes blog articles clean and easy to read. Summarly eliminates all distractions from your online reading experience",
     "permissions": [
         "http://summarly-api.herokuapp.com/"
     ],
